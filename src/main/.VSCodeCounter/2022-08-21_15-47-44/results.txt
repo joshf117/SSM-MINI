@@ -1,0 +1,108 @@
+Date : 2022-08-21 15:47:44
+Directory : /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main
+Total : 58 files,  24870 codes, 2011 comments, 4189 blanks, all 31070 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| CSS        |         10 |     12,837 |         53 |      1,006 |     13,896 |
+| JavaScript |          7 |      8,459 |      1,947 |      2,556 |     12,962 |
+| Java       |         24 |      1,790 |         10 |        510 |      2,310 |
+| XML        |          8 |      1,077 |          0 |         29 |      1,106 |
+| HTML       |          8 |        703 |          1 |         88 |        792 |
+| Properties |          1 |          4 |          0 |          0 |          4 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                            | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                               |         58 |     24,870 |      2,011 |      4,189 |     31,070 |
+| java                                                                                                            |         24 |      1,790 |         10 |        510 |      2,310 |
+| java/com                                                                                                        |         24 |      1,790 |         10 |        510 |      2,310 |
+| java/com/mini                                                                                                   |         24 |      1,790 |         10 |        510 |      2,310 |
+| java/com/mini/controller                                                                                        |          2 |        165 |          1 |         31 |        197 |
+| java/com/mini/listener                                                                                          |          1 |         22 |          1 |         11 |         34 |
+| java/com/mini/mapper                                                                                            |          3 |         57 |          0 |         39 |         96 |
+| java/com/mini/pojo                                                                                              |          7 |      1,321 |          0 |        360 |      1,681 |
+| java/com/mini/pojo/vo                                                                                           |          1 |         48 |          0 |         13 |         61 |
+| java/com/mini/service                                                                                           |          6 |        125 |          8 |         46 |        179 |
+| java/com/mini/service/impl                                                                                      |          3 |         99 |          3 |         24 |        126 |
+| java/com/mini/test                                                                                              |          3 |         56 |          0 |         12 |         68 |
+| java/com/mini/utils                                                                                             |          2 |         44 |          0 |         11 |         55 |
+| resources                                                                                                       |          7 |        739 |          0 |         22 |        761 |
+| resources/mapper                                                                                                |          3 |        631 |          0 |          0 |        631 |
+| webapp                                                                                                          |         27 |     22,341 |      2,001 |      3,657 |     27,999 |
+| webapp/WEB-INF                                                                                                  |          1 |         54 |          0 |          7 |         61 |
+| webapp/admin                                                                                                    |          7 |        688 |          1 |         86 |        775 |
+| webapp/static                                                                                                   |         18 |     21,584 |      2,000 |      3,562 |     27,146 |
+| webapp/static/css                                                                                               |         10 |     12,837 |         53 |      1,006 |     13,896 |
+| webapp/static/fonts                                                                                             |          1 |        288 |          0 |          0 |        288 |
+| webapp/static/js                                                                                                |          7 |      8,459 |      1,947 |      2,556 |     12,962 |
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                        | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/controller/AdminAction.java              | Java       |         24 |          1 |          7 |         32 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/controller/ProductInfoAction.java        | Java       |        141 |          0 |         24 |        165 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/listener/ProductTypeListener.java        | Java       |         22 |          1 |         11 |         34 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/mapper/AdminMapper.java                  | Java       |         18 |          0 |         12 |         30 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/mapper/ProductInfoMapper.java            | Java       |         21 |          0 |         15 |         36 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/mapper/ProductTypeMapper.java            | Java       |         18 |          0 |         12 |         30 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/pojo/Admin.java                          | Java       |         24 |          0 |          9 |         33 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/pojo/AdminExample.java                   | Java       |        314 |          0 |         85 |        399 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/pojo/ProductInfo.java                    | Java       |         73 |          0 |         26 |         99 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/pojo/ProductInfoExample.java             | Java       |        587 |          0 |        150 |        737 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/pojo/ProductType.java                    | Java       |         17 |          0 |          6 |         23 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/pojo/ProductTypeExample.java             | Java       |        258 |          0 |         71 |        329 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/pojo/vo/ProductInfoVo.java               | Java       |         48 |          0 |         13 |         61 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/service/AdminService.java                | Java       |          5 |          0 |          4 |          9 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/service/ProductInfoService.java          | Java       |         15 |          5 |         14 |         34 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/service/ProductTypeService.java          | Java       |          6 |          0 |          4 |         10 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/service/impl/AdminServiceImpl.java       | Java       |         28 |          2 |          7 |         37 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/service/impl/ProductInfoServiceImpl.java | Java       |         54 |          1 |         12 |         67 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/service/impl/ProductTypeServiceImpl.java | Java       |         17 |          0 |          5 |         22 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/test/MBGTest.java                        | Java       |         22 |          0 |          5 |         27 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/test/MyTest.java                         | Java       |         10 |          0 |          3 |         13 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/test/SQLTest.java                        | Java       |         24 |          0 |          4 |         28 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/utils/FileNameUtil.java                  | Java       |         17 |          0 |          6 |         23 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/java/com/mini/utils/MD5Util.java                       | Java       |         27 |          0 |          5 |         32 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/resources/applicationContext.xml                       | XML        |         64 |          0 |         11 |         75 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/resources/dbconfig.properties                          | Properties |          4 |          0 |          0 |          4 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/resources/mapper/AdminMapper.xml                       | XML        |        181 |          0 |          0 |        181 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/resources/mapper/ProductInfoMapper.xml                 | XML        |        286 |          0 |          0 |        286 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/resources/mapper/ProductTypeMapper.xml                 | XML        |        164 |          0 |          0 |        164 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/resources/mybatis-config.xml                           | XML        |         15 |          0 |          3 |         18 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/resources/springMVC.xml                                | XML        |         25 |          0 |          8 |         33 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/WEB-INF/web.xml                                 | XML        |         54 |          0 |          7 |         61 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/admin/addproduct.jsp                            | HTML       |        121 |          0 |         12 |        133 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/admin/err.jsp                                   | HTML       |         35 |          0 |          7 |         42 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/admin/login.jsp                                 | HTML       |         49 |          0 |          6 |         55 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/admin/main.jsp                                  | HTML       |         58 |          0 |          9 |         67 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/admin/product.jsp                               | HTML       |        250 |          1 |         32 |        283 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/admin/regist.jsp                                | HTML       |         48 |          0 |          5 |         53 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/admin/update.jsp                                | HTML       |        127 |          0 |         15 |        142 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/index.jsp                                       | HTML       |         15 |          0 |          2 |         17 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/css/addBook.css                          | CSS        |         61 |          6 |         10 |         77 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/css/bootstrap-theme.css                  | CSS        |        581 |          6 |          1 |        588 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/css/bootstrap-theme.min.css              | CSS        |          1 |          5 |          0 |          6 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/css/bootstrap.css                        | CSS        |      6,742 |          8 |          8 |      6,758 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/css/bootstrap.min.css                    | CSS        |      5,195 |          9 |        947 |      6,151 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/css/bright.css                           | CSS        |         51 |          1 |          7 |         59 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/css/index.css                            | CSS        |        127 |         15 |         21 |        163 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/css/login.css                            | CSS        |         57 |          3 |         10 |         70 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/css/main.css                             | CSS        |         18 |          0 |          2 |         20 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/css/style.css                            | CSS        |          4 |          0 |          0 |          4 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/fonts/glyphicons-halflings-regular.svg   | XML        |        288 |          0 |          0 |        288 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/js/ajaxfileupload.js                     | JavaScript |        158 |         21 |         22 |        201 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/js/bootstrap.js                          | JavaScript |      1,597 |        198 |        583 |      2,378 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/js/jquery-1.8.0.min.js                   | JavaScript |          1 |          1 |          0 |          2 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/js/jquery-3.3.1.js                       | JavaScript |      6,689 |      1,725 |      1,951 |     10,365 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/js/jquery.js                             | JavaScript |          1 |          1 |          0 |          2 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/js/myjs.js                               | JavaScript |          1 |          0 |          0 |          1 |
+| /Users/fushuran/IdeaProjects/springMVC/ssm-mini/src/main/webapp/static/js/npm.js                                | JavaScript |         12 |          1 |          0 |         13 |
+| Total                                                                                                           |            |     24,870 |      2,011 |      4,189 |     31,070 |
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
